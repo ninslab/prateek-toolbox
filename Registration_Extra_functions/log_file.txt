@@ -1,0 +1,6 @@
+Kalpana MRS Processing Toolbox Version 1.0
+F:\NBRC\fMRI-MRI_Pilot_Study\Toolboxes\GUI for paper_18_12_15_seg_try\default_settings.mat
+F:\NBRC\fMRI-MRI_Pilot_Study\Toolboxes\GUI for paper_18_12_15_seg_try
+F:\NBRC\fMRI-MRI_Pilot_Study\Preprocessing2\HU2010\MRS
+F:\NBRC\fMRI-MRI_Pilot_Study\Toolboxes\GUI for paper_18_12_15_seg_try
+F:\NBRC\fMRI-MRI_Pilot_Study\Toolboxes\GUI for paper_18_12_15_seg_try
